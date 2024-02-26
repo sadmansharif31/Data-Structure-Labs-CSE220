@@ -1,0 +1,4 @@
+   
+
+S=====>E     temp2.next=ola2 (append)
+i=====>i+1   temp2=ola2 / temp2=temp2.next (i+=1)  {Tail Pointer)
